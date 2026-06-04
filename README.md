@@ -66,5 +66,5 @@ I am interested in working-student, internship, research-assistant, and masterâ€
 ## Connect With Me
 
 * Portfolio: `TODO: ADD PORTFOLIO URL`
-* LinkedIn: `www.linkedin.com/in/saiankithreddyk`
+* LinkedIn: `linkedin.com/in/saiankithreddyk`
 * Email: 'ankithreddy580@gmail.com`
